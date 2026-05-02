@@ -1,0 +1,23 @@
+# Timecell.AI Summer Internship 2025 - Technical Assessment
+# Python Dependencies
+
+# Task 1: Portfolio Risk Calculator
+termgraph>=0.5.3
+numpy>=1.24.0
+tabulate>=0.9.0
+
+# Task 2: Live Market Data Fetch
+requests>=2.31.0
+httpx>=0.27.0
+tenacity>=8.2.0
+pydantic>=2.0.0
+pytz>=2024.1
+
+# Task 3: AI-Powered Portfolio Explainer
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+
+# Task 4: Natural Language Portfolio Stress Tester
+# Uses google-genai (already listed above)
+
+# Note: Task 4 uses only standard library (no additional dependencies)
